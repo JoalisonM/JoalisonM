@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Joalison Matheus</h1>
 
-- 🔭 I’m currently working on **Nefex as a Frontend developer**
+- 🔭 I’m currently working on **Nefex as a FullStack developer**
 - 🌱 I’m currently learning **Nextjs, Unitary Tests and Flask_Restful**.
 - 🤝 How to reach me **joalisonmatheus10@gmail.com**. 
 <p align="left">
